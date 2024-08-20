@@ -1,0 +1,36 @@
+
+.static{
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    position: static;
+    top: 200px;
+    left: 200px;
+}
+
+.relative{
+    background-color: purple;
+    height: 100px;
+    width: 100px;
+    position:relative;
+    top: 300px;
+    left: 300px;
+}
+
+.absolute{
+    background-color: brown;
+    height: 100px;
+    width: 100px;
+    position:absolute;
+    top: 480px;
+    left: 100px;
+}
+
+.fixed{
+    background-color: grey;
+    height: 100px;
+    width: 100px;
+    position: fixed;
+    top: 500px;
+    left: 500px;
+}
